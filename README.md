@@ -7,6 +7,7 @@
 - License
 
 # Description
+This text editor can be used when the user is connected or not connected to the internet.
 
 # Installation
 In order to install this applicaton you will need to have Node.js on your local machine.
@@ -18,7 +19,7 @@ In order to install this applicaton you will need to have Node.js on your local 
 - Click the install button to use the application
 
 # Usage
-
+Deployed Site:
 
 # License
 This application is licensed under MIT
